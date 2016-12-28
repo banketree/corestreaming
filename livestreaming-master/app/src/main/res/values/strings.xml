@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Live</string>
+    <string name="app_name_dev">Live Dev</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">Start/Stop Streaming</string>
+    <string name="flash">Flash</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video Settings</string>
+    <string name="save">OK</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="uri">URI</string>
+    <string name="stream_name">Name</string>
+    <!--<string name="password_hint">Leave empty if not needed</string>-->
+    <!--<string name="username_hint">Leave empty if not needed</string>-->
+    <!-- -->
+    <string name="password_hint">(No password)</string>
+    <string name="username_hint">(No username)</string>
+    <string name="default_bitrate">0 kbps</string>
+    <string name="rstp_default_stream">rtsp://dev-ap-wowza.chaatz.com:1935/live/</string>
+    <string name="dash_default_stream">http://dev-ap-wowza.chaatz.com:1935/live/</string>
+    <string name="vod_default_stream">http://dev-ap-wowza.chaatz.com:1935/vod/mp4:</string>
+
+    <string name="liveplay">Live Now</string>
+    <string name="vod_play">VOD Explore</string>
+    <string name="dash_play">Dash Explore</string>
+    <string name="hls_play">HLS Explore</string>
+
+    <!-- Error dialog -->
+    <string name="dialog_error_desc">Please specify video name.</string>
+    <!-- Exo Player -->
+    <string name="action_cust_exo_player">Custom ExoPlayer</string>
+    <string name="drm_error_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="drm_error_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="drm_error_unknown">An unknown DRM error occurred</string>
+
+</resources>

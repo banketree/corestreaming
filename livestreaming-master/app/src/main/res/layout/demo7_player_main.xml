@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <com.chaatz.live.app.widget.FastVideoView
+    android:id="@+id/fast_video_view_layout"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"/>
+
+    <!--<com.google.android.exoplayer.AspectRatioFrameLayout-->
+        <!--android:id="@+id/video_frame"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_gravity="center">-->
+
+        <!--<SurfaceView-->
+            <!--android:id="@+id/surface_view"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_gravity="center"/>-->
+    <!--</com.google.android.exoplayer.AspectRatioFrameLayout>-->
+</RelativeLayout>

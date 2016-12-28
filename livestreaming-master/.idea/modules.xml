@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chaatz_Live.iml" filepath="$PROJECT_DIR$/Chaatz_Live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libProject/libProject.iml" filepath="$PROJECT_DIR$/libProject/libProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libProject/libexoplayer/libexoplayer.iml" filepath="$PROJECT_DIR$/libProject/libexoplayer/libexoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libProject/libstreaming/libstreaming.iml" filepath="$PROJECT_DIR$/libProject/libstreaming/libstreaming.iml" />
+    </modules>
+  </component>
+</project>
